@@ -1,0 +1,1 @@
+sudo wg set wg0 peer ORmfgKSDddRlzOaDecgidBH8ezP7mXJq+Oe26dxVVF4= allowed-ips 10.0.0.2/32
