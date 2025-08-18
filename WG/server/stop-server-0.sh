@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'Stopoing the wireguard sever'
+echo 'Stopoing the wireguard sever 0'
 echo ''
 sudo wg-quick down wg0
 
